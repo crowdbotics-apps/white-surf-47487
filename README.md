@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
 - [django-calendly](backend/modules)
 - [django-contact-us](backend/modules)
+- [django-disqus](backend/modules)
 
 # Getting started: Frontend
 
